@@ -1,12 +1,22 @@
-# React + Vite
+# Forever – E-Commerce Web Application 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Forever is a modern and fully responsive **e-commerce front-end web application** built with **React.js** and **Tailwind CSS**. It provides users with a seamless shopping experience, featuring product listings, cart functionality, and a smooth checkout process.
 
-Currently, two official plugins are available:
+## ✨ Features
+- 🛍️ Browse and search products  
+- 🛒 Add to cart, update, and remove items  
+- 💳 Checkout form with validation  
+- 🔐 User authentication with Firebase  
+- ☁️ Firestore integration for data storage  
+- 🚀 Firebase Hosting for deployment  
+- 📱 Mobile-first, responsive UI  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
+- React.js (Functional Components + Hooks)  
+- Context API (State Management)  
+- Tailwind CSS  
+- Firebase (Auth, Firestore, Hosting)  
 
-## Expanding the ESLint configuration
+## 🌍 Live Demo
+[Forever App](https://forever-1ab74.web.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
